@@ -1,0 +1,50 @@
+﻿@model Vidly.ViewModels.RandomMovieViewModel
+
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*
+    This is how to comment in cshtml
+    To note, @ must be used prior to an C# code and parenthesis must be used even if there is only one line of code
+*@
+
+@*
+    create a variable based on the number of customers in order to format text differently
+*@
+@{
+    var className = Model.Customers.Count > 5 ? "popular" : "unpopular";
+}
+<style>
+    h2.popular{
+        color:green;
+    }
+
+    h2.unpopular{
+        color:red;
+    }
+</style>
+
+<h2 class="@className">@Model.Movie.Name</h2>
+
+
+@*
+    If nobody has rented the movie before then display appropriate text, 
+    otherwise create an unordered list (<ul>) and fill with list items (<li>) containing each of the customers names
+*@
+@if (Model.Customers.Count == 0)
+{
+    <text>No one has rented this movie before.</text>
+}
+else
+{
+    <ul>
+        @foreach (var customer in Model.Customers)
+        {
+            <li>@customer.Name</li>
+        }
+    </ul>
+
+}
+

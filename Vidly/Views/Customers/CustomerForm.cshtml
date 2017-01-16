@@ -1,0 +1,40 @@
+﻿@model Vidly.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customer</h2>
+
+<!--To create a form, use Html.BeginForm but need a closing tag as we're in html so have to put it within a using block and the end of which the closing tag will be assumed -->
+@using (Html.BeginForm("Save", "Customers"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Birthdate)
+        @Html.TextBoxFor(m => m.Customer.Birthdate, "{0:d MMM yyyy}", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.MembershipTypeId)
+        <!--The dropdown list is linked to the MembershipTypeId,
+        The value for MembershipTypeId will be selected from Membershiptypes,
+        SelectList is instructing the dropdown list to be populated with the data from Model.MembershipTypes to take the Id field as it's value but to display the associated Name in the dropdown list
+        "Select Membership Type" is an additional value for the dropdown list that will be the default value-->
+        @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" })
+    </div>
+    <div class="checkbox">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsletter) Subscribed to Newsletter?
+        </label>
+    </div>
+    
+    <!-- the following line creates a field for Id so that it can be used by the program in the background, but is hidden so won't be displayed and can't be altered by the user-->
+    @Html.HiddenFor(m => m.Customer.Id)
+
+    <button type="submit" class="btn btn-primary">Save</button>
+
+}
+
