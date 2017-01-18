@@ -104,16 +104,16 @@ namespace Vidly.Controllers
 
         
         //Method works to display report passing values of Genres that can be selected 
-        public ActionResult MoviesInStock(int Id)
-        {
-            var viewModel = new GenreListViewModel();
+        //public ActionResult MoviesInStock(int Id)
+        //{
+            //var viewModel = new GenreListViewModel();
             //{
                 //Genres = _context.Genres.ToList()
             //};
-            viewModel.Genres = _context.Genres.ToList();
+            //viewModel.Genres = _context.Genres.ToList();
 
-            return View(viewModel);
-        }
+            //return View(viewModel);
+        //}
 
         public ActionResult SelectGenre(int Id)
         {
@@ -126,6 +126,16 @@ namespace Vidly.Controllers
             //viewModel.Genres.Add(selectedGenre);
 
             return RedirectToAction("MoviesInStock", "Movies", Id);
+        }
+
+        public ActionResult MoviesInStock()
+        {
+            var genres = _context.Genres.ToList();
+
+            var items = new GenreViewModel(genres);
+            items.SelectedGenreId = 0;
+
+            return View(items);
         }
 
     }
