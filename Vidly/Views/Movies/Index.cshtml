@@ -1,4 +1,7 @@
-﻿@model IEnumerable<Vidly.Models.Movie>
+﻿@using Vidly.Models
+
+@model IEnumerable<Vidly.Models.Movie>
+
 
 @{
     ViewBag.Title = "Movies";
@@ -13,6 +16,9 @@
 }
 else
 {
+    <p>
+        @Html.ActionLink("Movie Report", "MoviesInStock", "Movies", new { id = 0 }, new { @class = "btn btn-primary" })
+    </p>
     <p>
         @Html.ActionLink("Add Movie", "MovieForm", "Movies", new { @class = "btn btn-primary" })
     </p>

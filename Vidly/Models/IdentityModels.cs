@@ -27,6 +27,9 @@ namespace Vidly.Models
         public DbSet<Movie> Movies { get; set; }
         //adds the MembershipType class to the DbSet so that it is included in migrations (and therefore created/updated) - but also so we can use the data in drop down menu's when creating/updating customers
         public DbSet<MembershipType> MembershipTypes { get; set; }
+        //adds the Genre class to the DbSet so that it is included in migrations (and therefore created/updated) - but also so we can use the data in drop down menu's when creating/updating movies
+        public DbSet<Genre> Genres { get; set; }
+
 
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)

@@ -88,6 +88,46 @@ namespace Vidly.Controllers
         {
             return View();
         }
+
+        //public ActionResult MoviesInStock(int id)
+        //{
+            //var genre = new Genre
+            //{
+                //Id = id,
+                //GenreType = "all"
+            //};
+            //var viewModel = new GenreListViewModel();
+            ////viewModel.Genres.Add(genre);
+
+            //return View(viewModel);
+        //}
+
+        
+        //Method works to display report passing values of Genres that can be selected 
+        public ActionResult MoviesInStock(int Id)
+        {
+            var viewModel = new GenreListViewModel();
+            //{
+                //Genres = _context.Genres.ToList()
+            //};
+            viewModel.Genres = _context.Genres.ToList();
+
+            return View(viewModel);
+        }
+
+        public ActionResult SelectGenre(int Id)
+        {
+            //var genre = new Genre
+            //{
+                //Id = id,
+                //GenreType = _context.Genres.
+            //};
+            var viewModel = new GenreListViewModel();
+            //viewModel.Genres.Add(selectedGenre);
+
+            return RedirectToAction("MoviesInStock", "Movies", Id);
+        }
+
     }
 
 }

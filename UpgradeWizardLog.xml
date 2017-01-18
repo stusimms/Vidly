@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\Vidly.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="201701091350354_InitialModel.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091350354_InitialModel.resx" />
+  <event action="Analyze" type="Success" name="201701091408246_AddIsSubscribedToCustomer.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091408246_AddIsSubscribedToCustomer.resx" />
+  <event action="Analyze" type="Success" name="201701091415345_AddMembershipType.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091415345_AddMembershipType.resx" />
+  <event action="Analyze" type="Success" name="201701091417540_PopulateMembershipTypes.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091417540_PopulateMembershipTypes.resx" />
+  <event action="Analyze" type="Success" name="201701091438436_ApplyAnnotationsToCustomerName.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091438436_ApplyAnnotationsToCustomerName.resx" />
+  <event action="Analyze" type="Success" name="201701091650048_AddMembershipName.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091650048_AddMembershipName.resx" />
+  <event action="Analyze" type="Success" name="201701091701526_PopulateMembershipName.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091701526_PopulateMembershipName.resx" />
+  <event action="Analyze" type="Success" name="201701091726326_AddCustomerBirthdate.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091726326_AddCustomerBirthdate.resx" />
+  <event action="Analyze" type="Success" name="201701091755024_AddMovieFieldsAndGenreClass.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091755024_AddMovieFieldsAndGenreClass.resx" />
+  <event action="Analyze" type="Success" name="201701091757514_PopulateGenreTypes.resx" path="C:\Project\Vidly\Vidly\Migrations\201701091757514_PopulateGenreTypes.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Project\Vidly\Vidly\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Project_Readme.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Project_Readme.html" />
+  <event action="Analyze" type="Success" name="Project_Readme.html" path="C:\Project\Vidly\Vidly\Project_Readme.html" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="C:\Project\Vidly\Vidly\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_ExternalLoginsListPartial.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\_ExternalLoginsListPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ConfirmEmail.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ConfirmEmail.cshtml" />
+  <event action="Analyze" type="Success" name="ConfirmEmail.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ConfirmEmail.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="ExternalLoginConfirmation.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="ExternalLoginFailure.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ExternalLoginFailure.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPassword.cshtml" />
+  <event action="Analyze" type="Success" name="ForgotPassword.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="ForgotPasswordConfirmation.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ForgotPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Login.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\Login.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Register.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\Register.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ResetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ResetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="ResetPassword.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ResetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\ResetPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\ResetPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="ResetPasswordConfirmation.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\ResetPasswordConfirmation.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\SendCode.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\SendCode.cshtml" />
+  <event action="Analyze" type="Success" name="SendCode.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\SendCode.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Account\VerifyCode.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Account\VerifyCode.cshtml" />
+  <event action="Analyze" type="Success" name="VerifyCode.cshtml" path="C:\Project\Vidly\Vidly\Views\Account\VerifyCode.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Customers\CustomerForm.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Customers\CustomerForm.cshtml" />
+  <event action="Analyze" type="Success" name="CustomerForm.cshtml" path="C:\Project\Vidly\Vidly\Views\Customers\CustomerForm.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Customers\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Customers\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Details.cshtml" path="C:\Project\Vidly\Vidly\Views\Customers\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Customers\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Customers\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Project\Vidly\Vidly\Views\Customers\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Home\About.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Home\About.cshtml" />
+  <event action="Analyze" type="Success" name="About.cshtml" path="C:\Project\Vidly\Vidly\Views\Home\About.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Home\Contact.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Home\Contact.cshtml" />
+  <event action="Analyze" type="Success" name="Contact.cshtml" path="C:\Project\Vidly\Vidly\Views\Home\Contact.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Project\Vidly\Vidly\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\AddPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\AddPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="AddPhoneNumber.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\AddPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\ChangePassword.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\ChangePassword.cshtml" />
+  <event action="Analyze" type="Success" name="ChangePassword.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\ChangePassword.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\ManageLogins.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\ManageLogins.cshtml" />
+  <event action="Analyze" type="Success" name="ManageLogins.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\ManageLogins.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\SetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\SetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="SetPassword.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\SetPassword.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Manage\VerifyPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Manage\VerifyPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="VerifyPhoneNumber.cshtml" path="C:\Project\Vidly\Vidly\Views\Manage\VerifyPhoneNumber.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Details.cshtml" path="C:\Project\Vidly\Vidly\Views\Movies\Details.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="C:\Project\Vidly\Vidly\Views\Movies\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Movies\MovieForm.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Movies\MovieForm.cshtml" />
+  <event action="Analyze" type="Success" name="MovieForm.cshtml" path="C:\Project\Vidly\Vidly\Views\Movies\MovieForm.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Random.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Movies\Random.cshtml" />
+  <event action="Analyze" type="Success" name="Random.cshtml" path="C:\Project\Vidly\Vidly\Views\Movies\Random.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="C:\Project\Vidly\Vidly\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="_LoginPartial.cshtml" path="C:\Project\Vidly\Vidly\Views\Shared\_LoginPartial.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_NavBar.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Shared\_NavBar.cshtml" />
+  <event action="Analyze" type="Success" name="_NavBar.cshtml" path="C:\Project\Vidly\Vidly\Views\Shared\_NavBar.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Error.cshtml" path="C:\Project\Vidly\Vidly\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Project\Vidly\Vidly\Views\Shared\Lockout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Project\Vidly\Vidly\Views\Shared\Lockout.cshtml" />
+  <event action="Analyze" type="Success" name="Lockout.cshtml" path="C:\Project\Vidly\Vidly\Views\Shared\Lockout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Project\Vidly\Vidly\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Project\Vidly\Vidly\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\Project\Vidly\Vidly\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\Project\Vidly\Vidly\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Vidly" path="C:\Project\Vidly\Vidly\Vidly.csproj" />
+  <event action="Analyze" type="Success" name="Vidly" path="C:\Project\Vidly\Vidly.sln" />
+</log>
